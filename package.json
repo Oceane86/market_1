@@ -1,0 +1,23 @@
+{
+    "name": "market-copcust",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "express": "^4.19.2",
+        "firebase": "^10.12.2",
+        "react-firebase-hooks": "^5.1.1",
+        "stripe": "^16.1.0"
+    },
+    "devDependencies": {
+        "@types/next": "^9.0.0",
+        "@types/node": "20.14.9",
+        "@types/react": "18.3.3",
+        "nodemon": "^2.0.22",
+        "typescript": "5.5.2"
+    }
+}
